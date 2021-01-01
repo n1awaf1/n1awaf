@@ -1,4 +1,4 @@
 askfm-helper
 ============
 
-Ask.fm的辅助程序
+https://ask.fm/DodixD?utm_source=copy_link&utm_medium=android.
